@@ -1,0 +1,3 @@
+/Users/love/Entrepreneur_things/Hatch 2018/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/edit_cache.dir
+/Users/love/Entrepreneur_things/Hatch 2018/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/rebuild_cache.dir
+/Users/love/Entrepreneur_things/Hatch 2018/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/native-lib.dir
