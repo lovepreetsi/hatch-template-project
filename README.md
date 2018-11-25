@@ -51,4 +51,4 @@ The solution An app that lets people with solar panels share their energy with o
 
 ## Install and run this project
 
-Install the android studio and run the app using the emulator.
+Install the android studio and run the app using the emulator. Clone the repository, import the "Theappfolder" into android studio, after importing it will take a few minutes to buiild the project and you will a see green signal when it is ready to run. Then click on the run button under the Run menu and add a device in the studio.
