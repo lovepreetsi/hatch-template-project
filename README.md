@@ -1,4 +1,5 @@
-# hatch-template-project - replace with your project name
+# SolarSwitch
+
 
 This template project should be forked by hatch teams.
 
@@ -37,15 +38,17 @@ From now on it is in your **Forked** repo
 
 Include all members of your team for the hack here:
 
-* Full Name [github](link to github profile)
-* Full Name [github](link to github profile)
-* Full Name [github](link to github profile)
-* Full Name [github](link to github profile)
-
+* Lovepreet [lovepreetsi](https://github.com/lovepreetsi/hatch-template-project)
+* Jonny [github](link to github profile)
+* Natalie [github](link to github profile)
+* Pooja [github](link to github profile)
+* Navya [github](link to github profile)
+* Jil [github](link to github profile)
 ## Problem and Solution
 
-Describe here which problem you are working on during the event, and what your solution is, succinctly.
+The problem Increasing energy demand but decreasing resources, inertua to switch to renewable energy.
+The solution An app that lets people with solar panels share their energy with others around them;
 
 ## Install and run this project
 
-Paste here a link to the project if it is a running website, or some indications on how to use your code for other GitHub users who might be interested. The jury will take a look at what is in this repository during deliberations.
+Install the android studio and run the app using the emulator.
